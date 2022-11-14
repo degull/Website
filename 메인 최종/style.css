@@ -47,7 +47,7 @@ h1 {
   display:flex;
   height: 86px;
 }
-.searchArea{
+/* .searchArea{
   width:300px;
   height:40px;
   background: rgba(0, 0, 0, 0.5);
@@ -65,10 +65,10 @@ h1 {
 .searchArea > form > span{
   width:50px;
   color:#fff;
-}
+} */
 .nav{
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   width:calc(1280px - 300px);
   line-height: 86px;
 }
